@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routersync",
+        "uuid": 15335464,
+        "checksum": "tem5ls"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
